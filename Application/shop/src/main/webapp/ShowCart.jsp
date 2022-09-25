@@ -26,7 +26,7 @@ a:link, a:visited {
   }
 </style>
 </head>
-<body background="1.jpg">
+<body background="Blue.jpg">
 <br/>
 <div class="container">
 <h2>Order ID: ${orderid}</h2>
@@ -53,8 +53,8 @@ a:link, a:visited {
 </table>
 <br/>
 
-<button><a href="ListOfProducts">Create New Quote</a></button>
-<button><a href="CustomerOrderManagement.jsp">Back to Home Page</a></button>
+<button><a href="CustomerDetails.jsp">Create New Quote</a></button>
+<button><a href="EmployeeOrderManagement.jsp">Back to Home Page</a></button>
 
 </div>
 </body>
