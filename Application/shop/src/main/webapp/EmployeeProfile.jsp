@@ -1,6 +1,6 @@
 <%@page import="java.io.PrintWriter"%>
-<%@page import="com.shop.model.Employee"%>
-<%@page import="com.shop.service.EmployeeProfileService"%> 	
+<%@page import="com.hsbc.model.Employee"%>
+<%@page import="com.hsbc.service.EmployeeProfileService"%> 	
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
 	pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>

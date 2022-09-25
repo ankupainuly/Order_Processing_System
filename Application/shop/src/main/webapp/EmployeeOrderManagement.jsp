@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
 	pageEncoding="ISO-8859-1"%>
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
-<%@page import="com.shop.model.Employee"%>
+<%@page import="com.hsbc.model.Employee"%>
 
 
 
@@ -45,7 +45,7 @@ a {
 </style>
 
 </head>
-<body  background="1.jpg">
+<body  background="Blue.jpg">
 
 	<a style="position: absolute; right: 10px;" class="previous round"
 		href="LogoutServlet">Log Out</a>
