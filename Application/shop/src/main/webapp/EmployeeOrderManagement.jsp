@@ -45,7 +45,7 @@ a {
 </style>
 
 </head>
-<body  background="1.jpg">
+<body  background="Blue.jpg">
 
 	<a style="position: absolute; right: 10px;" class="previous round"
 		href="LogoutServlet">Log Out</a>

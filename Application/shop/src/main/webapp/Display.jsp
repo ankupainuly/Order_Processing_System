@@ -34,7 +34,7 @@ a {
 </style>
  
 </head>
-<body  background="1.jpg">
+<body  background="Blue.jpg">
 
 <a href="CustomerOrderManagement.jsp" class="previous round">&#8249;</a>
 <a style="position:absolute;right:10px;" class="previous round" href="LogoutServlet">Log Out</a>

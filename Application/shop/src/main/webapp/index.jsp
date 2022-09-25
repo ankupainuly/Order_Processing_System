@@ -8,7 +8,7 @@
         <title>Upload JsonFile</title>
     </head>
 
-    <body background="1.jpg">
+    <body background="Blue.jpg">
         <center>
             <br><br>
             <h1 style="color:#ffffff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Helvetica, cursive; padding-inline-start:1cm; padding-inline-end: ;">Upload JSON File</h1>

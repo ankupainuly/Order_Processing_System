@@ -18,7 +18,7 @@
             box-sizing:border-box;
         }
         body{
-            background-color: rgb(219, 226, 226);
+            background-color: rgb(230, 219, 219);
         }
         .row{
             background:white;
@@ -41,7 +41,7 @@
         }
     </style>
   </head>
-  <body  background="1.jpg">
+  <body  background="Blue.jpg">
 		  <%
 		response.setHeader("Cache-Control","no-cache, no-store, must-revalidate");
 		response.setHeader("Pragma", "no-cache");
@@ -51,7 +51,7 @@
          <div class="container">
              <div class="row no-gutters">
                  <div class="col-lg-5">
-                     <img src="logo1.jpeg" class="img-fluid" alt="Logo">
+                     <img src="Basket.png" class="img-fluid" width = 400 px, height =450px alt="Basket">
                  </div>
                  <div class="col-lg-7 px-5 pt-5">
                      <h1 class="font-weight-bold py-3">EMPLOYEE LOGIN</h1>

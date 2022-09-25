@@ -16,7 +16,7 @@
   	<%@taglib uri = "http://java.sun.com/jsp/jstl/core" prefix = "core" %>
     <header class="clearfix">
       <div id="logo">
-        <img src="logo.jpg">
+        <img src="logo.png">
       </div>
       <h1>INVOICE 
       <% 
