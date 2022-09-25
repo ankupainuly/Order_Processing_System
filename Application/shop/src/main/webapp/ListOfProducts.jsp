@@ -24,7 +24,7 @@
 }
 </style>
 </head>
-<body background="1.jpg">
+<body background="Blue.jpg">
 <br/>
 <div class="container">
 	<h2>
